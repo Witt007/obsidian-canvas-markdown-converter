@@ -1,6 +1,5 @@
-# Canvas Mindmap Converter (Canvas 思维导图转换器)
+# Canvas Markdown Converter (Canvas 思维导图转换器)
 
-[English](./README.md) | [简体中文](./README_zh.md)
 
 一个 Obsidian 插件，提供 **Canvas 思维导图**与 **Markdown** 内容（剪贴板）之间的双向转换，并保留层级结构。
 
@@ -44,9 +43,8 @@ npm run dev      # 监听源码变更并自动构建
 
 本插件致力于让 Obsidian Canvas 中的脑暴过程与 Markdown 工作流无缝衔接。
 
-# Canvas Mindmap Converter
+# Canvas Markdown Converter
 
-[English](./README.md) | [简体中文](./README_zh.md)
 
 An Obsidian plugin that provides bi-directional conversion between **Canvas Mindmaps** and **Markdown** content (clipboard), preserving hierarchical structures.
 
