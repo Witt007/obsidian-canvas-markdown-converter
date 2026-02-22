@@ -1,4 +1,4 @@
-# Canvas Mindmap Converter
+# Canvas Markdown Converter (Canvas 思维导图转换器)
 
 [English](./README.md) | [简体中文](./README_zh.md)
 
