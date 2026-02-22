@@ -1,0 +1,9 @@
+{
+	"id": "canvas-markdown-converter",
+	"name": "Canvas Markdown Converter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Convert between Canvas mindmaps and Markdown clipboard content with hierarchical support.",
+	"author": "Witt",
+	"isDesktopOnly": false
+}
